@@ -2,7 +2,7 @@
 
 En este curso aprenderas a usar Python 
 
-![Logo de Python](Imagenes\python.png)
+![Logo de Python]([Imagenes\python.png](https://github.com/GusSanchezP8/Curso_Python_IA/blob/main/Imagenes/python.png))
 
 **Requisitos:**
 Python 3.6 o superior 
